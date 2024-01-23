@@ -6,7 +6,7 @@ I’m Songxi Yang, a [Geography](https://geography.wisc.edu/) Ph.D. student in [
 # Research Interests
 - Remote Sensing
 - Machine Learning
-- Physical Models
+- Physics-based Models
 
 # Publications and Projects
 ### 2023
