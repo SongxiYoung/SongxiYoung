@@ -6,5 +6,11 @@ I’m a [Geography](https://geography.wisc.edu/) Ph.D. student in [Spatial Compu
 ### Research Interests
 - Remote Sensing
 - Machine Learning
+- Physical Models
 
 ### Publications and Projects
+# 2023
+
+# 2022
+
+# 2021
