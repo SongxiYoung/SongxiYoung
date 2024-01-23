@@ -6,7 +6,7 @@ I’m Songxi Yang, a [Geography](https://geography.wisc.edu/) Ph.D. student in [
 # Research Interests
 - Remote Sensing: Multispectral/Hyperspectral Remote Sensing
 - Machine Learning
-- Environmental Problems: Natural Disasters
+- Environmental Problems: Natural Disasters, Carbon Fluxes
 - Physics-based Models: [PROSPECT](https://prospect.readthedocs.io/en/v1.0.0/installation.html#), [PROSAIL](https://github.com/jgomezdans/prosail/tree/master), [SCOPE](https://github.com/Christiaanvandertol/SCOPE), [BEPS](https://github.com/JChen-UToronto/BEPS_hourly_site) 
 
 # Publications and Projects
