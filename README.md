@@ -12,7 +12,13 @@ I’m Songxi Yang, a [Geography](https://geography.wisc.edu/) Ph.D. student in [
 # Publications and Projects
 ### 2023
 
+**Yang, S.**, Yang, J., Shi, S., Song, S., Luo, Y., & Du, L. (2023). [The rising impact of urbanization-caused CO2 emissions on terrestrial vegetation.](https://www.sciencedirect.com/science/article/pii/S1470160X23002212) Ecological Indicators, 148, 110079.
+
+Luo, Y., Yang, J., **Yang, S.**, Wang, A., Shuo, S., & Du, L. (2023). [Assessing the responses of different vegetation types to drought with satellite solar-induced chlorophyll fluorescence over the Yunnan-Guizhou Plateau.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-22-35565&id=540657) Optics Express, 31(22), 35565-35582.
+
 ### 2022
+
+**Yang, S.**, Yang, J., Shi, S., Song, S., Zhang, Y., Luo, Y., & Du, L. (2022). [An exploration of solar-induced chlorophyll fluorescence (SIF) factors simulated by SCOPE for capturing GPP across vegetation types.](https://www.sciencedirect.com/science/article/abs/pii/S0304380022001843) Ecological Modelling, 472, 110079.
 
 ### 2021
 
