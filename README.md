@@ -5,7 +5,7 @@ I’m Songxi Yang, a Ph.D. student in Cartography/GIS in [Spatial Computing and 
 
 # Research Interests
 - Remote Sensing: Multispectral/Hyperspectral Remote Sensing
-- Machine Learning: Self Supervised Learning
+- Machine Learning: Self Supervised Learning, Multimodal Representation Learning 
 - Environmental Problems: Natural Disasters, Carbon Fluxes
 - Physics-based Models: [PROSPECT](https://prospect.readthedocs.io/en/v1.0.0/installation.html#), [PROSAIL](https://github.com/jgomezdans/prosail/tree/master), [SCOPE](https://github.com/Christiaanvandertol/SCOPE), [BEPS](https://github.com/JChen-UToronto/BEPS_hourly_site) 
 
