@@ -4,7 +4,8 @@ I’m Songxi Yang, a Ph.D. student in Geospatial Information Science in [Spatial
 [My Google Scholar](https://scholar.google.com/citations?user=xgNfNKYAAAAJ&hl=en)
 
 # Research Interests
-- Machine Learning: Self Supervised Learning, Multimodal Representation Learning 
+- Machine Learning: XGBoost, Bayesian Methods
+- Deep Learning: Self-Supervised Learning, Multimodal Representation Learning 
 - Generative AI: Stable Diffusion
 
 # Languages and Tools 
